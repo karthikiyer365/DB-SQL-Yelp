@@ -1,23 +1,39 @@
 # DB-SQL-Yelp
 
 
-1. This is a Database Management project, based in SQL.
-   The repository is initiated on the 1st of April, 2024 and will be developed over the course of the next month.
+This is a Database Management project, based in SQL.
+The repository is initiated on the 1st of April, 2024 and will be developed over the course of the next month.
+
+It is better to access the files at the google drive link. 
+The YELP datasets cannot be uploaded to the github repository and hence have been hosted on the google drive. 
+For the same reason, the code files run when executed through the Colab on the link provided.
+All Files and Folders at: https://drive.google.com/drive/folders/1lacpglVoNXucHOwbDCY5j2u6KAjcRwPu?usp=sharing
    
 
 Team Members -
 Github Repository
+
 ○ Vidit Sheth (G27981166) - ViditSheth77
+
 ○ Avani Rao (G45297503) - Avani032000 
+
 ○ Karthik Iyer (G36721984) - karthikiyer365
+
 ○ Akash Poddar (G34554396) - Akash69420
+
 Project Name : Data analysis for YELP reviews
+
 We are embarking on a comprehensive data analysis project utilizing the PostgreSQL database management system, featuring Yelp database with 4 json files. 
 Data found at: https://www.yelp.com/dataset
 
-All Files and Folders at: https://drive.google.com/drive/folders/1lacpglVoNXucHOwbDCY5j2u6KAjcRwPu?usp=sharing
+
 Data, Processing : initial_cleaning_file.ipynb 
-SQL and Spark: YELP_SQL_DBanalysis.ipynb 
+SQL and Spark: YELP_SQL_DBanalysis.ipynb
+Database file: YELP_DB.db
+
+Only partial execution of code can work on YELP_DB since project is executed using both SQL as well as spark.
+
+
 
 
 The data isin the form of json files with folling types of info:
