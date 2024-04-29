@@ -15,7 +15,9 @@ Project Name : Data analysis for YELP reviews
 We are embarking on a comprehensive data analysis project utilizing the PostgreSQL database management system, featuring Yelp database with 4 json files. 
 Data found at: https://www.yelp.com/dataset
 
-Data, Processing, SQL and Spark: https://drive.google.com/drive/folders/1lacpglVoNXucHOwbDCY5j2u6KAjcRwPu?usp=sharing
+All Files and Folders at: https://drive.google.com/drive/folders/1lacpglVoNXucHOwbDCY5j2u6KAjcRwPu?usp=sharing
+Data, Processing : initial_cleaning_file.ipynb 
+SQL and Spark: YELP_SQL_DBanalysis.ipynb 
 
 
 The data isin the form of json files with folling types of info:
